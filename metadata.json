@@ -1,0 +1,6 @@
+{
+  "name": "Zorvexa Astro - Premium AI Astrology Platform",
+  "description": "Zorvexa Astro: Next-generation AI astrology platform featuring accurate Vedic Kundli charts, daily & yearly horoscopes, AI astrologer assistant, verified expert consultations, and real-time cosmic insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
